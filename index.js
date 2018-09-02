@@ -43,3 +43,4 @@ function makeInt(n) {
 }
 console.log(makeInt("30"))
 console.log(makeInt("Hello"))
+console.log(parseInt('Hello', 10)
