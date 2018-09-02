@@ -35,3 +35,5 @@ function dec(n) {
   return n;
 }
 console.log(dec(6))
+
+console.log(parseInt('2',10))
