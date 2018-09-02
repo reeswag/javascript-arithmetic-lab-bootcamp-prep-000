@@ -36,3 +36,7 @@ function dec(n) {
 }
 console.log(dec(6))
 
+//problem 7 
+function makeInt(n) {
+  parseInt(n,10)
+}
