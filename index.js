@@ -41,4 +41,4 @@ function makeInt(n) {
   parseInt(n,10)
   return n
 }
-console.log(makeInt("30")
+console.log(makeInt("30"))
