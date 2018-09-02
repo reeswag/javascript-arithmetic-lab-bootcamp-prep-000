@@ -39,7 +39,7 @@ console.log(dec(6))
 //problem 7 
 function makeInt(n) {
   parseInt('n' , 10);
-  return n
+  return n;
 }
 console.log(makeInt("30"))
 console.log(makeInt("Hello"))
