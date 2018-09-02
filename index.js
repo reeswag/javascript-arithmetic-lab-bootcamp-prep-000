@@ -38,7 +38,7 @@ console.log(dec(6))
 
 //problem 7 
 function makeInt(n) {
-  parseInt(n, 10);
-  return n;
+  parseInt(n,10);
+  return n
 }
 console.log(makeInt("30"))
