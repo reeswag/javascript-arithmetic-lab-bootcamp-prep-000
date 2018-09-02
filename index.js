@@ -47,4 +47,4 @@ console.log(makeInt('Hello'))
 function preserveDecimal(n) {
   return parseFloat(n)
 }
-
+console.log(preserveDecimal('2.445664'))
