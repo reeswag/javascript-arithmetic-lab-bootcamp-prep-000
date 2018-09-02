@@ -42,3 +42,4 @@ function makeInt(n) {
   return n
 }
 console.log(makeInt("30"))
+console.log(makeInt("Hello"))
