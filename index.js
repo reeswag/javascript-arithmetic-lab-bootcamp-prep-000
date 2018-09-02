@@ -28,3 +28,10 @@ function inc(n) {
   return n;
 }
 console.log(inc(6))
+
+//problem 6 
+function dec(n) {
+  n++;
+  return n;
+}
+console.log(dec(6))
