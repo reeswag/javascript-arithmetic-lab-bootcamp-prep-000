@@ -36,4 +36,4 @@ function dec(n) {
 }
 console.log(dec(6))
 
-console.log(parseInt('2',10))
+console.log(parseInt('2.22222',10))
