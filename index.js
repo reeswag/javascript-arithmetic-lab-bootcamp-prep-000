@@ -42,3 +42,9 @@ function makeInt(n) {
 }
 console.log(makeInt("30"))
 console.log(makeInt('Hello'))
+
+//problem 8 
+function preserveDecimal(n) {
+  return parseFloat(n)
+}
+
